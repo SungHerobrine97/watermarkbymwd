@@ -1,0 +1,46 @@
+{
+  "mod_elements": [
+    {
+      "name": "Watermark",
+      "type": "overlay",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "watermark",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/watermarkbymwd/client/screens/WatermarkOverlay.java"
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "tag_elements": {},
+  "tab_element_order": {},
+  "language_map": {
+    "en_us": {
+      "gui.watermarkbymwd.watermark.label_platfrom": "platfrom",
+      "gui.watermarkbymwd.watermark.label_watermark": "watermark"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "watermarkbymwd",
+    "modName": "watermarkbymwd",
+    "version": "1.0.0",
+    "author": "MixerWangDev",
+    "license": "WTFPL",
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.19.2",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.watermarkbymwd"
+  },
+  "mcreatorVersion": 202400232117
+}
